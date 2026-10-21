@@ -1,0 +1,9 @@
+export { default as HomePage } from './HomePage';
+export { default as WorkPage } from './WorkPage';
+export { default as CasePage } from './CasePage';
+export { default as HirePage } from './HirePage';
+export { default as ConsultingPage } from './ConsultingPage';
+export { default as PartnerPage } from './PartnerPage';
+export { default as AboutPage } from './AboutPage';
+export { default as ContactPage } from './ContactPage';
+export { default as LostPage } from './LostPage';
